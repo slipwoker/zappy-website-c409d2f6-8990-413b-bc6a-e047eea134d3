@@ -1,49 +1,35 @@
-# GOBOX — Generative Engine Optimization Map
-
-> GOBOX is a delivery service company that offers distance-based pricing calculated by kilometer. The service provides a delivery ordering system with transparent pricing at 6 ILS per kilometer, emphasizing clear cost calculation for customers.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://gobox-c409d2f6.zappy5.app
+https://example.com
 חברת משלוחים עם תמחור שקוף: 6 ₪ לקילומטר בלבד. מערכת הזמנות פשוטה, חישוב עלויות ברור ושירות מהיר לעסקים ופרטיים. הזמינו משלוח עכשיו!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://gobox-c409d2f6.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://gobox-c409d2f6.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://gobox-c409d2f6.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About GOBOX
-GOBOX is a delivery service company that offers distance-based pricing calculated by kilometer. The service provides a delivery ordering system with transparent pricing at 6 ILS per kilometer, emphasizing clear cost calculation for customers.
-
-## Target Audience
-- בעלי עסקים עירוניים
-- יזמי מסחר אלקטרוני
-- צרכנים טכנולוגיים
-- מארגני אירועים
-- לקוחות עסקיים
-
-## Industry
-משלוחים ולוגיסטיקה
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://gobox-c409d2f6.zappy5.app/sitemap.xml
-- **Robots.txt**: https://gobox-c409d2f6.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt

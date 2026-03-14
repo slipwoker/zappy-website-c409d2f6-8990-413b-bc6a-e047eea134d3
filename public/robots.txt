@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gobox-c409d2f6.zappy5.app/sitemap.xml
